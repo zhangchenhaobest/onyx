@@ -1,3 +1,29 @@
+# onyx
+
+[English](#english) | [简体中文](#简体中文)
+
+---
+
+## English
+
+Open Source AI Platform - AI Chat with advanced features that works with every LLM
+
+> This repository is a fork. For full documentation, see the upstream repository.
+
+[简体中文](#简体中文)
+
+---
+
+## 简体中文
+
+开源 AI 平台，兼容所有 LLM 的高级 AI 聊天能力。
+
+> 本项目为 fork，详细文档请以原仓库为准。
+
+[English](#english)
+
+---
+
 <a name="readme-top"></a>
 
 <h2 align="center">
